@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C4187BD2-A940-4566-89A2-1F14C04BD177</string>
+	<key>IDESourceControlProjectName</key>
+	<string>gitHUbTesting</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5696302453961AACD56C876116A0FC408508DA19</key>
+		<string>https://github.com/MicroBlogProjects/github-.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>gitHUbTesting/gitHUbTesting.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5696302453961AACD56C876116A0FC408508DA19</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/MicroBlogProjects/github-.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5696302453961AACD56C876116A0FC408508DA19</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5696302453961AACD56C876116A0FC408508DA19</string>
+			<key>IDESourceControlWCCName</key>
+			<string>github-Test</string>
+		</dict>
+	</array>
+</dict>
+</plist>
