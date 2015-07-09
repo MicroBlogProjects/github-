@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 //陈新哈哈哈哈
+=======
+//  赖伟煌
+>>>>>>> origin/赖伟煌的branch
 //  ViewController.m
 //  gitHUbTesting
 //
