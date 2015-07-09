@@ -14,6 +14,7 @@
 		2BB83CC01B4EA5A60025AAFA /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2BB83CBF1B4EA5A60025AAFA /* Images.xcassets */; };
 		2BB83CC31B4EA5A60025AAFA /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2BB83CC11B4EA5A60025AAFA /* LaunchScreen.xib */; };
 		2BB83CCF1B4EA5A60025AAFA /* gitHUbTestingTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BB83CCE1B4EA5A60025AAFA /* gitHUbTestingTests.m */; };
+		E6FE21CC1B4F318D00CC3EB0 /* chenxinViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E6FE21CB1B4F318D00CC3EB0 /* chenxinViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		2BB83CC81B4EA5A60025AAFA /* gitHUbTestingTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = gitHUbTestingTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2BB83CCD1B4EA5A60025AAFA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2BB83CCE1B4EA5A60025AAFA /* gitHUbTestingTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = gitHUbTestingTests.m; sourceTree = "<group>"; };
+		E6FE21CA1B4F318D00CC3EB0 /* chenxinViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = chenxinViewController.h; sourceTree = "<group>"; };
+		E6FE21CB1B4F318D00CC3EB0 /* chenxinViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = chenxinViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +92,8 @@
 				2BB83CBF1B4EA5A60025AAFA /* Images.xcassets */,
 				2BB83CC11B4EA5A60025AAFA /* LaunchScreen.xib */,
 				2BB83CB21B4EA5A60025AAFA /* Supporting Files */,
+				E6FE21CA1B4F318D00CC3EB0 /* chenxinViewController.h */,
+				E6FE21CB1B4F318D00CC3EB0 /* chenxinViewController.m */,
 			);
 			path = gitHUbTesting;
 			sourceTree = "<group>";
@@ -221,6 +226,7 @@
 			files = (
 				2BB83CBB1B4EA5A60025AAFA /* ViewController.m in Sources */,
 				2BB83CB81B4EA5A60025AAFA /* AppDelegate.m in Sources */,
+				E6FE21CC1B4F318D00CC3EB0 /* chenxinViewController.m in Sources */,
 				2BB83CB51B4EA5A60025AAFA /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -412,6 +418,7 @@
 				2BB83CD41B4EA5A60025AAFA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2BB83CD51B4EA5A60025AAFA /* Build configuration list for PBXNativeTarget "gitHUbTestingTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +427,7 @@
 				2BB83CD71B4EA5A60025AAFA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
